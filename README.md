@@ -14,4 +14,6 @@ Curenty I'm interested in folowing languages:
 ![stats](https://github-readme-stats.vercel.app/api?username=ninedraft&show_icons=true)
 
 
-This readme views: ![Visitor Count](https://profile-counter.glitch.me/ninedraft/count.svg)
+**This readme views**
+
+![Visitor Count](https://profile-counter.glitch.me/ninedraft/count.svg)
