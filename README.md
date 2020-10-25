@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm interested in folowing languages:
+Curenty I'm interested in folowing languages:
 
 + Go :hamster:
 + Rust :crab:
